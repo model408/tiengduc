@@ -30,13 +30,13 @@ img {
 
 .vid-name-container {
     position: absolute;
-    top: 13% ;
+    top: 14% ;
     display: flex;
     justify-content: flex-end;
     align-items: center;
     width: 100%;
     z-index: 3;
-    padding-right: 8px;
+    padding-right: 4px;
 }
 .vid-name {
     color:blue;
