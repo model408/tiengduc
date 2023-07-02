@@ -30,7 +30,7 @@ img {
 
 .vid-name-container {
     position: absolute;
-    top: 15% ;
+    top: calc(15% + 10px) ;
     display: flex;
     justify-content: flex-end;
     align-items: center;
